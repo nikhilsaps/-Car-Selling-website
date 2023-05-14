@@ -16,7 +16,6 @@ Requirement	Description
 | Chrome browser | The user must have access to the Google Chrome web browser to navigate the website. |
 | Ability to navigate on a webpage | The user must be familiar with how to navigate through web pages using a web browser. This includes basic knowledge of clicking links, scrolling, and using the back and forward buttons. | 
 
-I hope this helps!
 
 # Screenshots
 ## Login-Page
@@ -25,8 +24,20 @@ I hope this helps!
 
 ## landing-page 
 
-![login Image](https://github.com/nikhilsaps/-Car-Selling-website/blob/main/landingpage1.PNG?raw=true)
+![landing Image](https://github.com/nikhilsaps/-Car-Selling-website/blob/main/landingpage1.PNG?raw=true)
 
-![login Image](https://github.com/nikhilsaps/-Car-Selling-website/blob/main/landingpage2.PNG?raw=true)
+![landing Image](https://github.com/nikhilsaps/-Car-Selling-website/blob/main/landingpage2.PNG?raw=true)
 
 ## Admin page 
+![admin Page Image](https://github.com/nikhilsaps/-Car-Selling-website/blob/main/adminpage.PNG?raw=true)
+
+# Steps to Run 
+### Sure! Here's a bullet list for the steps you require :
+
+- Download the project.
+- Extract the project files.
+- Run enabler.html and press "OK" for all alert boxes. This will create all necessary databases and a few entries in your Chrome browser.
+- View the data in enabler.html. All entry data will be displayed there.
+- Open the project from index.html to continue using it.
+thanks 
+### end 
