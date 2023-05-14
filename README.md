@@ -22,3 +22,11 @@ I hope this helps!
 ## Login-Page
 
 ![login Image](https://github.com/nikhilsaps/-Car-Selling-website/blob/main/loginpage.PNG?raw=true)
+
+## landing-page 
+
+![login Image](https://github.com/nikhilsaps/-Car-Selling-website/blob/main/landingpage1.PNG?raw=true)
+
+![login Image](https://github.com/nikhilsaps/-Car-Selling-website/blob/main/landingpage2.PNG?raw=true)
+
+## Admin page 
