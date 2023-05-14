@@ -1,0 +1,41 @@
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+form {
+    margin: 50px auto;
+    max-width: 600px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+input[type="text"], input[type="number"], input[type="file"], button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+    form {
+        margin: 20px;
+    }
+}
+#addcarfastupload{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 16px;
+}

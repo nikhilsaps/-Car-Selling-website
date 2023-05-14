@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Display Images from Folder</title>
+	<script>
+        var data;
+		function displayImage(file) {
+			var reader = new FileReader();
+			reader.onload = function(event) {
+				document.getElementById("image").src = event.target.result;
+                data = event.target.result;
+			};
+			reader.readAsDataURL(file);
+		}
+        function lilo (){
+            var  img =document.getElementById("nanana");
+            img.src=data;
+            localStorage.setItem("image",data);
+        }
+	</script>
+</head>
+<body>
+	<input type="file" onchange="displayImage(this.files[0])">
+	<img id="image" src="" alt="Image" height="300px" width="300px">
+    <img src="" alt="" id="nanana" height="200px" width="200px">
+    <button id="nanas" onclick="lilo()">dsd</button>
+</body>
+</html>
